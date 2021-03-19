@@ -1,1 +1,2 @@
-# My personal Visual Studio Code theme
+# Sombra
+My personal Visual Studio Code theme
