@@ -10,7 +10,7 @@
         "url": "https://github.com/wunnle/sombra"
     },
     "engines": {
-        "vscode": "^1.54.0"
+        "vscode": "^1.50.0"
     },
     "categories": [
         "Themes"
