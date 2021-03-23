@@ -1,8 +1,8 @@
 {
     "name": "sombra",
     "displayName": "Sombra",
-    "description": "",
-    "version": "0.0.4",
+    "description": "A mimimal dark theme for Visual Studio Code with hand-picked colors.",
+    "version": "0.0.5",
     "publisher": "wunnle",
     "icon": "images/icon.png",
     "repository": {
